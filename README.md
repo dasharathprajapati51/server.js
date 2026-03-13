@@ -1,1 +1,1 @@
-# mongoose.connect("mongodb+srv://admin:admin%40123@cluster0.zwkbjoe.mongodb.net/inventoryDB?retryWrites=true&w=majority");
+# server.jsmongoose.connect("mongodb+srv://admin:admin@123@cluster0.zwkbjoe.mongodb.net/?appName=Cluster0");
